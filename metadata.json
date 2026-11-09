@@ -1,0 +1,6 @@
+{
+  "name": "ScholarForge - Research Paper Agent",
+  "description": "AI-powered structured research paper generator using Gemini few-shot prompting across 9 core scholarly sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
